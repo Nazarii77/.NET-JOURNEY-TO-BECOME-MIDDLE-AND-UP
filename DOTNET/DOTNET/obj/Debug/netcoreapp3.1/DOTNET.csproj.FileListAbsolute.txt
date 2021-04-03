@@ -1,0 +1,13 @@
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.exe
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.deps.json
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.runtimeconfig.json
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.runtimeconfig.dev.json
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.dll
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\bin\Debug\netcoreapp3.1\DOTNET.pdb
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.csprojAssemblyReference.cache
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.AssemblyInfoInputs.cache
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.AssemblyInfo.cs
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.csproj.CoreCompileInputs.cache
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.dll
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.pdb
+D:\Flutter\.NET-JOURNEY-TO-BECOME-MIDDLE-AND-UP\DOTNET\DOTNET\obj\Debug\netcoreapp3.1\DOTNET.genruntimeconfig.cache
